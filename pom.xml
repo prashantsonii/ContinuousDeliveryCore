@@ -22,10 +22,4 @@
 			<version>0.0.2-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-		<snapshotRepository>
-			<id>elm-repository</id>
-			<url>http://localhost:9080/nexus-2.11.1-01/content/repositories/elm-repository</url>
-		</snapshotRepository>
-	</distributionManagement>
 </project>
